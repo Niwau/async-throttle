@@ -1,3 +1,8 @@
+<img src="https://images6.alphacoders.com/885/885542.png" width=100% />
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 # Async Throttle
 
 Este é um sistema de throttle de execução de funções assíncronas, desenvolvido para otimizar o processamento concorrente de tarefas em TypeScript.
